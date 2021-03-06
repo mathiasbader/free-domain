@@ -30,10 +30,8 @@
         .second-language {
             margin-top: 12px;
             font-size: 0.85rem; }
-
         .second-language,
-        .second-language a {
-            color: #888; }
+        .second-language a { color: #888; }
         .second-language a:hover { border-bottom: 1px dashed #888; }
     </style>
 </head>
