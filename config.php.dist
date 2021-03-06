@@ -1,0 +1,6 @@
+﻿<?php
+
+DEFINE('TITLE' , 'Website title');
+DEFINE('DOMAIN', 'xyz.de');
+DEFINE('URL'   , 'https://www.xyz.de');
+DEFINE('MAIL'  , 'mail@xyz.de');
