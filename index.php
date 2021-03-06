@@ -43,11 +43,11 @@
     <h1><?php echo DOMAIN; ?></h1>
     <div>
         Die Domain <i><?php echo DOMAIN; ?></i> ist zur Zeit nicht in Verwendung. Sollten Sie an der Domain
-        interessiert sein, kontaktieren Sie mich unter <a href="mailto:<?php echo MAIL; ?>"><?php echo MAIL; ?></a>.
+        interessiert sein, kontaktieren Sie mich: <a href="mailto:<?php echo MAIL; ?>"><?php echo MAIL; ?></a>.
     </div>
     <div class="second-language">
         The domain <i><?php echo DOMAIN; ?></i> is currently not in use. If you are interested in the domain,
-        contact me under <a href="mailto:<?php echo MAIL; ?>"><?php echo MAIL; ?></a>.
+        contact me: <a href="mailto:<?php echo MAIL; ?>"><?php echo MAIL; ?></a>.
     </div>
 
 </main>
