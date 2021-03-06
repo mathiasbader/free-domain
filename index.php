@@ -6,6 +6,7 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, inital-scale=1.0">
+    <link rel="icon" href="icon.svg">
 
     <title><?php echo TITLE; ?></title>
 
