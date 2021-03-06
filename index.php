@@ -6,7 +6,9 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, inital-scale=1.0">
-    <link rel="icon" type="image/png" href="<?php echo URL; ?>/icon.png">
+
+    <link rel="apple-touch-icon" sizes="256x256" href="/apple-touch-icon.png">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
     <title><?php echo TITLE; ?></title>
 
