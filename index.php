@@ -12,7 +12,7 @@
 
     <title><?php echo TITLE; ?></title>
 
-    <style type="text/css">
+    <style>
         body {
             color: #333;
             line-height: 1.3;
@@ -47,7 +47,6 @@
         The domain <i><?php echo DOMAIN; ?></i> is currently not in use. If you are interested in the domain,
         contact me: <a href="mailto:<?php echo MAIL; ?>"><?php echo MAIL; ?></a>.
     </div>
-
 </main>
 </body>
 </html>
