@@ -35,6 +35,13 @@
         .second-language,
         .second-language a { color: #888; }
         .second-language a:hover { border-bottom: 1px dashed #888; }
+        .footer {
+            font-size: 0.85rem;
+            text-align: right;
+            margin-top: 62px;
+            margin-bottom: 32px; }
+        .footer, .footer a { color: #aaa; }
+        .footer a { border-color: #aaa; }
     </style>
 </head>
 
@@ -48,6 +55,9 @@
     <div class="second-language">
         The domain <i><?php echo DOMAIN; ?></i> is currently not in use. If you are interested in the domain,
         contact me: <a href="mailto:<?php echo MAIL; ?>"><?php echo MAIL; ?></a>.
+    </div>
+    <div class="footer">
+        <a href="https://www.github.com/mathiasbader/free-domain" target="_blank">GitHub</a>
     </div>
 </main>
 </body>
